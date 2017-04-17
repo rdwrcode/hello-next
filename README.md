@@ -4,6 +4,18 @@ Hello Next.js
 Credit goes to [learn nextjs](https://learnnextjs.com/).
 Its original repo can be found [here](https://github.com/arunoda/learnnextjs-demo)
 
+Before server part, run 
+```
+npm run dev
+```
+
+After server part added, run 
+```
+npm run server
+```
+which starts an express server.
+
+
 ```
 mkdir hello-next
 cd hello-next
