@@ -1,8 +1,8 @@
 Hello Next.js
 
 ## setup
-Credit goes to [learn nextjs](https://learnnextjs.com/)
-Repo can be found [here](https://github.com/arunoda/learnnextjs-demo)
+Credit goes to [learn nextjs](https://learnnextjs.com/).
+Its original repo can be found [here](https://github.com/arunoda/learnnextjs-demo)
 
 ```
 mkdir hello-next
@@ -94,5 +94,5 @@ const Index = () => (
   </Layout>
 )
 ```
-
+Check out the new implementation for async getInitialProps in index.js.
 
